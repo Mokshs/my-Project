@@ -1,0 +1,9 @@
+Push code
+Fetch changes
+Run unit test
+build artifacts
+store artifacts
+provision enviourment
+Deploy your build
+Run load and functional test
+Dev->Qa->stagging->Production
